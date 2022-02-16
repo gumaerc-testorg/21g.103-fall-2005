@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: d6692c6e-3a9d-85a6-fd2f-2892b35cfaec
 ---
@@ -98,7 +100,7 @@ Dialogue: In the store
 8.6.1 ([MP3](/ans7870/21f/21f.103/f05/studymats/8-6-1_shiqing.mp3))
 {{< tdclose >}}
 {{< tdopen >}}
-Five very short dialogues involving the word shì<qing>
+Five very short dialogues involving the word shì\<qing>
 {{< tdclose >}}
 
 {{< trclose >}}
