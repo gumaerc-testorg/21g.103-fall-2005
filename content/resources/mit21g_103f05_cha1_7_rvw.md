@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 3cdc93f2-34d9-4ac5-3101-8607705f9b4a
 resourcetype: Document
 title: Stroke Order of Characters in Lesson A
 uid: 0b16dbf2-aa4e-729f-4bd6-23909390779c

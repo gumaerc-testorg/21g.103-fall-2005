@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 3cdc93f2-34d9-4ac5-3101-8607705f9b4a
 resourcetype: Document
 title: "D\xEC-li\xF9 k\xE8"
 uid: dec0da47-d1ad-c91c-c6c5-d1f3d642af76
