@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information on overview, abbreviations key, daily
+  assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Assignments
 uid: 7af31cc8-a2fd-f1e1-557f-56b6c1b0c6c5
 ---
 
-This section features the [daily assignments](#Daily_Assignments) for the course. All the assignments rely heavily on texts available in the [readings]({{< baseurl >}}/pages/readings) section as well as audio files available in the [study materials]({{< baseurl >}}/pages/study-materials) section. For Part 1, all review materials from Chinese II can be found either in the readings section or in [21G.102/21G.152](/courses/21g-102-chinese-ii-regular-spring-2015/).
+This section features the [daily assignments](#Daily_Assignments) for the course. All the assignments rely heavily on texts available in the {{% resource_link 3cdc93f2-34d9-4ac5-3101-8607705f9b4a "readings" %}} section as well as audio files available in the {{% resource_link d6692c6e-3a9d-85a6-fd2f-2892b35cfaec "study materials" %}} section. For Part 1, all review materials from Chinese II can be found either in the readings section or in [21G.102/21G.152](/courses/21g-102-chinese-ii-regular-spring-2015).
 
 Overview
 --------
@@ -48,7 +50,7 @@ ASSIGNMENTS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-In class: Getting used to the class format - greeting your teacher, counting off, rote practice, rhymes, and role play. Zìwŏ jièshào ('self introductions') and giving autobiographical information; the syllabus and information about the course; reviewing Unit 7 ([PDF]({{< baseurl >}}/resources/mit21g_103f05_unit7)) material (from the end of Chinese II): Talking about the weather; language abilities; what time you (habitually) go to sleep/get up/eat breakfast, etc. Chars 6 ([PDF]({{< baseurl >}}/resources/mit21g_103f05_chars6)): exercise 2 (ordering drinks and snacks); 6.5 (A filial tale).
+In class: Getting used to the class format - greeting your teacher, counting off, rote practice, rhymes, and role play. Zìwŏ jièshào ('self introductions') and giving autobiographical information; the syllabus and information about the course; reviewing Unit 7 ({{% resource_link 99eeed41-a439-22cf-52cc-be21389e96fd "PDF" %}}) material (from the end of Chinese II): Talking about the weather; language abilities; what time you (habitually) go to sleep/get up/eat breakfast, etc. Chars 6 ({{% resource_link dec0da47-d1ad-c91c-c6c5-d1f3d642af76 "PDF" %}}): exercise 2 (ordering drinks and snacks); 6.5 (A filial tale).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +59,7 @@ In class: Getting used to the class format - greeting your teacher, counting off
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Review Unit 7 and Chars 6 (refer to the files entitled 'Grammatical and topical highlights from Units 1-7' and 'Character list for Chars 1-7'). Re-familiarize yourself over the next few days with the following sections of Unit 7: 7.10 (Weather) and 7.11 (Dialog on weather); 7.8 (Duration) and 7.9 (Two le-patterns), 7.7 (Cái 'not until'); and review Question Words in the Unit 7 Appendix. Then for day 3, (re-)do excercise 6 and 7 (in Unit 7.8 and 7.9). In class, you will do the pronunciation review under 7.14. Begin Chars 7 ([PDF]({{< baseurl >}}/resources/mit21g_103f05_chars7)) with 7.0, a review of earlier character material. Read the first set of questions (1.i) and prepare (oral) responses to them; practice reading the tonal sets (2) aloud.
+Review Unit 7 and Chars 6 (refer to the files entitled 'Grammatical and topical highlights from Units 1-7' and 'Character list for Chars 1-7'). Re-familiarize yourself over the next few days with the following sections of Unit 7: 7.10 (Weather) and 7.11 (Dialog on weather); 7.8 (Duration) and 7.9 (Two le-patterns), 7.7 (Cái 'not until'); and review Question Words in the Unit 7 Appendix. Then for day 3, (re-)do excercise 6 and 7 (in Unit 7.8 and 7.9). In class, you will do the pronunciation review under 7.14. Begin Chars 7 ({{% resource_link d557c070-fcd0-7867-6c32-69b0fc1d1176 "PDF" %}}) with 7.0, a review of earlier character material. Read the first set of questions (1.i) and prepare (oral) responses to them; practice reading the tonal sets (2) aloud.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +95,7 @@ Complete the Unit 7 review with 7.12 (on co-verbs) and 7.13 (The letter - audio 
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Unit 6 ([PDF]({{< baseurl >}}/resources/mit21g_103f05_unit6)) reviews (6.1 opposites; 6.2 describing people; 6.3 V-guo). In Chars 7, consolidate Set 1 (7.1 to 7.3).
+Unit 6 ({{% resource_link 269cf640-e535-6b65-1287-23436ac7cca9 "PDF" %}}) reviews (6.1 opposites; 6.2 describing people; 6.3 V-guo). In Chars 7, consolidate Set 1 (7.1 to 7.3).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +137,7 @@ Prepare for Test 1 which will review Units 6, 7 and Chars 6, as well as reading 
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Continue with Chars 7, set 3 (7.4 through 7.4.2) and read the filial tale about catching carp in winter. Preview Unit 8 ([PDF]({{< baseurl >}}/resources/mit21g_103f05_unit8)) - especially. 8.1 (Narratives) and 8.3 (Comparison), with audio in study materials.
+Continue with Chars 7, set 3 (7.4 through 7.4.2) and read the filial tale about catching carp in winter. Preview Unit 8 ({{% resource_link aa346c60-7311-be47-c076-e3d252a57474 "PDF" %}}) - especially. 8.1 (Narratives) and 8.3 (Comparison), with audio in study materials.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -267,7 +269,7 @@ Finish up Unit 8, doing excercise 10 and 11. Review 8.11 (Visiting the Great Wal
 24
 {{< tdclose >}}
 {{< tdopen >}}
-_Making Connections_ 7 (Foreign language). _Lady_ through p. 16. Unit 9 ([PDF]({{< baseurl >}}/resources/mit21g_103f05_unit9)): Look ahead to the highlights (9.16); review rhymes and preview Unit 9 rhymes (9.17); 9.1 (modification), with audio in study materials, and 9.2 (Clothes). Review the dialogue on regional languages in Unit 8 (8.7.1), with audio in study materials.
+_Making Connections_ 7 (Foreign language). _Lady_ through p. 16. Unit 9 ({{% resource_link fc2547ea-507f-27c0-d058-eb0f5397c4db "PDF" %}}): Look ahead to the highlights (9.16); review rhymes and preview Unit 9 rhymes (9.17); 9.1 (modification), with audio in study materials, and 9.2 (Clothes). Review the dialogue on regional languages in Unit 8 (8.7.1), with audio in study materials.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -432,7 +434,7 @@ Test 4 through Unit 9 and _Lady_ p. 48.
 41
 {{< tdclose >}}
 {{< tdopen >}}
-Preview Unit 10 ([PDF - 1.2 MB]({{< baseurl >}}/resources/mit21g_103f05_unit10)) - the highlights, the rhymes, then do Unit 10.1 (Feeling ill) with excercise 1; and 10.2 (Indefinites); _Lady_ though p. 49. Start to plan your presentations about now.
+Preview Unit 10 ({{% resource_link b46765ac-6e05-0863-6139-6a40f43f2a0c "PDF - 1.2 MB" %}}) - the highlights, the rhymes, then do Unit 10.1 (Feeling ill) with excercise 1; and 10.2 (Indefinites); _Lady_ though p. 49. Start to plan your presentations about now.
 {{< tdclose >}}
 
 {{< trclose >}}
