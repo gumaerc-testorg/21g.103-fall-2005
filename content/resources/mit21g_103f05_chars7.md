@@ -6,6 +6,7 @@ file: /courses/21g-103-chinese-iii-regular-fall-2005/d557c070fcd078676c3269b0fc1
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "\u7B2C\u4E03\u8AB2 D\xEC-q\u012B k\xE8"
 uid: d557c070-fcd0-7867-6c32-69b0fc1d1176
 ---
 This resource contains the information regarding 第七課 dì-qī kè.
-

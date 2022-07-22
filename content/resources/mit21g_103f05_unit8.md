@@ -5,6 +5,7 @@ file: /courses/21g-103-chinese-iii-regular-fall-2005/aa346c607311be47c076e3d252a
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Unit  8
 uid: aa346c60-7311-be47-c076-e3d252a57474
 ---
 This resource contains the information regarding Unit 8.
-

@@ -5,6 +5,7 @@ file: /courses/21g-103-chinese-iii-regular-fall-2005/99eeed41a43922cf52ccbe21389
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Unit 7
 uid: 99eeed41-a439-22cf-52cc-be21389e96fd
 ---
 This resource contains the information regarding unit 7.
-

@@ -6,6 +6,7 @@ file: /courses/21g-103-chinese-iii-regular-fall-2005/5996ffa119dbc91878de513c67f
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Summaries of earlier patterns and chars
 uid: 5996ffa1-19db-c918-78de-513c67ffb6dd
 ---
 This resource contains the information regarding summaries of earlier patterns and chars.
-

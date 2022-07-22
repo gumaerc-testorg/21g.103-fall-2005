@@ -5,6 +5,7 @@ file: /courses/21g-103-chinese-iii-regular-fall-2005/269cf640e5356b65128723436ac
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lesson 6
 uid: 269cf640-e535-6b65-1287-23436ac7cca9
 ---
 This resource contains the information regarding lesson 6.
-
