@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Unit 8.
-file: /courses/21g-103-chinese-iii-regular-fall-2005/aa346c607311be47c076e3d252a57474_MIT21G_103F05_unit8.pdf
+file: /ol-ocw-studio-app/courses/21g-103-chinese-iii-regular-fall-2005/aa346c607311be47c076e3d252a57474_MIT21G_103F05_unit8.pdf
+file_size: 934038
 file_type: application/pdf
 learning_resource_types:
 - Readings

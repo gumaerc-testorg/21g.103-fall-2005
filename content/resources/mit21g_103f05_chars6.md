@@ -2,7 +2,8 @@
 content_type: resource
 description: "This resource contains the information regarding ??? d\xEC-li\xF9 k\xE8\
   ."
-file: /courses/21g-103-chinese-iii-regular-fall-2005/dec0da47d1adc91cc6c5d1f3d642af76_MIT21G_103F05_chars6.pdf
+file: /ol-ocw-studio-app/courses/21g-103-chinese-iii-regular-fall-2005/dec0da47d1adc91cc6c5d1f3d642af76_MIT21G_103F05_chars6.pdf
+file_size: 702011
 file_type: application/pdf
 learning_resource_types:
 - Readings

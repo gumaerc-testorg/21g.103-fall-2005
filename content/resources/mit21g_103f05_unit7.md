@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains the information regarding unit 7.
-file: /courses/21g-103-chinese-iii-regular-fall-2005/99eeed41a43922cf52ccbe21389e96fd_MIT21G_103F05_unit7.pdf
+file: /ol-ocw-studio-app/courses/21g-103-chinese-iii-regular-fall-2005/99eeed41a43922cf52ccbe21389e96fd_MIT21G_103F05_unit7.pdf
+file_size: 652095
 file_type: application/pdf
 learning_resource_types:
 - Readings

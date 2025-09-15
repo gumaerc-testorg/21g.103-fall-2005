@@ -2,7 +2,8 @@
 content_type: resource
 description: "This resource contains the information regarding \u7B2C\u4E03\u8AB2\
   \ d\xEC-q\u012B k\xE8."
-file: /courses/21g-103-chinese-iii-regular-fall-2005/d557c070fcd078676c3269b0fc1d1176_MIT21G_103F05_chars7.pdf
+file: /ol-ocw-studio-app/courses/21g-103-chinese-iii-regular-fall-2005/d557c070fcd078676c3269b0fc1d1176_MIT21G_103F05_chars7.pdf
+file_size: 842109
 file_type: application/pdf
 learning_resource_types:
 - Readings

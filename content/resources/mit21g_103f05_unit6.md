@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains the information regarding lesson 6.
-file: /courses/21g-103-chinese-iii-regular-fall-2005/269cf640e5356b65128723436ac7cca9_MIT21G_103F05_unit6.pdf
+file: /ol-ocw-studio-app/courses/21g-103-chinese-iii-regular-fall-2005/269cf640e5356b65128723436ac7cca9_MIT21G_103F05_unit6.pdf
+file_size: 743505
 file_type: application/pdf
 learning_resource_types:
 - Readings

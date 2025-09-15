@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains the information regarding stroke order of characters
   in lesson a.
-file: /courses/21g-103-chinese-iii-regular-fall-2005/0b16dbf2aa4e729f4bd623909390779c_MIT21G_103F05_cha1_7_rvw.pdf
+file: /ol-ocw-studio-app/courses/21g-103-chinese-iii-regular-fall-2005/0b16dbf2aa4e729f4bd623909390779c_MIT21G_103F05_cha1_7_rvw.pdf
+file_size: 290987
 file_type: application/pdf
 learning_resource_types:
 - Readings

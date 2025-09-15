@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains the information regarding char7_str.
-file: /courses/21g-103-chinese-iii-regular-fall-2005/e7353ec03b7dece4f5e7ef71835e1931_MIT21G_103F05_char7_str.pdf
+file: /ol-ocw-studio-app/courses/21g-103-chinese-iii-regular-fall-2005/e7353ec03b7dece4f5e7ef71835e1931_MIT21G_103F05_char7_str.pdf
+file_size: 193283
 file_type: application/pdf
 learning_resource_types:
 - Readings
