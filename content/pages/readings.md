@@ -17,9 +17,9 @@ Required Textbooks
 
 Wheatley, Julian K. _Learning Chinese: A Foundation Course in Mandarin_ (Part 3).
 
-[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0887273661/ref=nosim/mitopencourse-20) Spring, Madeline K. _Making Connections: Enhance Your Listening Comprehension in Chinese_. Simplified character edition. Boston, MA: Cheng and Tsui Company, 2002. ISBN: 0887273661.
+{{% resource_link "aa5044e4-f140-40a9-afa5-fb31d490f50a" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Spring, Madeline K. _Making Connections: Enhance Your Listening Comprehension in Chinese_. Simplified character edition. Boston, MA: Cheng and Tsui Company, 2002. ISBN: 0887273661.
 
-[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0887100430/ref=nosim/mitopencourse-20) Wang, Fred Fan-yü. _The Lady in the Painting_. Mirror Series A. New Haven, CT: Yale University Press, 1983. ISBN: 0887100430.
+{{% resource_link "9ebb7cb2-3d85-4316-a0a0-aa8719d9a985" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Wang, Fred Fan-yü. _The Lady in the Painting_. Mirror Series A. New Haven, CT: Yale University Press, 1983. ISBN: 0887100430.
 
 {{< anchor "PART_2" >}}{{< /anchor >}}Review Materials from Chinese II, _Learning Chinese_ (Part 2)
 ---------------------------------------------------------------------------------------------------

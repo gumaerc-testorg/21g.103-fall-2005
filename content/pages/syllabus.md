@@ -36,10 +36,10 @@ _Parts 1 and 2 form the basis of [21G.101/21G.151](/courses/21g-101-chinese-i-re
 Textbooks Required Later in the Course
 --------------------------------------
 
-[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0887273661/ref=nosim/mitopencourse-20) Spring, Madeline K. _Making Connections: Enhance Your Listening Comprehension in Chinese_. Simplified character ed. Boston, MA: Cheng and Tsui Company, 2002. ISBN: 0887273661.  
+{{% resource_link "aa5044e4-f140-40a9-afa5-fb31d490f50a" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Spring, Madeline K. _Making Connections: Enhance Your Listening Comprehension in Chinese_. Simplified character ed. Boston, MA: Cheng and Tsui Company, 2002. ISBN: 0887273661.  
 Comes with two CDs; used sparingly in Chinese III, more extensively in Chinese IV. The simplified character version (the one with the turquoise cover) is recommended.
 
-[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0887100430/ref=nosim/mitopencourse-20) Wang, Fred Fan-yü. _The Lady in the Painting_. Mirror Series A. New Haven, CT: Yale University Press, 1983. ISBN: 0887100430.
+{{% resource_link "9ebb7cb2-3d85-4316-a0a0-aa8719d9a985" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Wang, Fred Fan-yü. _The Lady in the Painting_. Mirror Series A. New Haven, CT: Yale University Press, 1983. ISBN: 0887100430.
 
 Recommended Dictionaries
 ------------------------
@@ -121,7 +121,7 @@ How to succeed
 MISTI China (For MIT students)
 ------------------------------
 
-Interested in working or teaching abroad? Check out the [MISTI program](http://mit.edu/misti/) (MIT Science and Technology Initiatives). The [MIT China Program](http://mit.edu/mit-china/) (one of the MISTI programs) sponsors students working or teaching in China over the summer or a school year.
+Interested in working or teaching abroad? Check out the {{% resource_link "0545b82e-0016-4da8-944f-234c52d14709" "MISTI program" %}} (MIT Science and Technology Initiatives). The {{% resource_link "10b40410-1f7c-4145-bf3e-1fce542ad0f6" "MIT China Program" %}} (one of the MISTI programs) sponsors students working or teaching in China over the summer or a school year.
 
 Calendar
 --------
